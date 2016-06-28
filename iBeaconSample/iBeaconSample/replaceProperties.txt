@@ -1,0 +1,5 @@
+skin>titleBar<=skin>titleBarstudio1<
+"titleBar"="titleBarstudio1"
+skinId>titleBar<=skinId>titleBarstudio1<
+SkinId>titleBar<=SkinId>titleBarstudio1<
+skinID>titleBar<=skinID>titleBarstudio1<

@@ -1,0 +1,17 @@
+{
+    "p2kwiet1285197691705_button10445690505_onClick_seq0": {
+        "id": "p2kwiet1285197691705_button10445690505_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_804771285197691924",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "turn_device_into_iBeacon",
+            "display": "turn_device_into_iBeacon"
+        }]
+    }
+}

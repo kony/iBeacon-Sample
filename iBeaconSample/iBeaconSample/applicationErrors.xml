@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project name="iBeaconSample" path="C:\Users\kh9128\Desktop\temp\1467094647117\iBeaconSample">
+    <channel type="mobile"/>
+    <channel type="tablet"/>
+    <channel type="desktop"/>
+    <keywordSkinID>titleBar</keywordSkinID>
+</project>

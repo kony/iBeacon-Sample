@@ -1,0 +1,97 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "sd26b69d9dce444db0fbbd5f5573ce0b",
+    "_text_": "Turn into iBeacon",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
+        "displayText": true,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s2b31bf4e787429da52928c6cad94680",
+    "hexpand": true,
+    "id": "button10445690505",
+    "ide_onClick": "p2kwiet1285197691712_button10445690505_onClick_seq0",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.button.IPadButtonProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "displayText": true,
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "glowEffect": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet1285197691709",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "frmMain",
+    "pf": "frmMain",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAAndroidTabletButtonProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAIPadButtonProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAWindowsTabletButtonProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.button.Windows8ButtonProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "displayText": true,
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "render": true
+    }
+}
